@@ -1,0 +1,10 @@
+install
+update
+authorization
+add to cart
+edit the order
+delete from cart
+confirm order
+pay
+exit 
+
